@@ -1,7 +1,7 @@
 # Web interface for PDF overlay
 
 ## How to start
-This uses pdfrw, Flask and Python 3.6.
+This uses [pdfrw](https://github.com/pmaupin/pdfrw), Flask and Python 3.6.
 
 For pkgsrc users, please run as follows.
 
